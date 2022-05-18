@@ -14,8 +14,8 @@
 Clone repo:
 
 ```
-git clone https://github.com/VasilievaKA/Motivashka_bot.git motivashka
-cd motivashka
+git clone https://github.com/NicolauPashkolarDe/TRPP.git bot
+cd bot
 ```
 Install depends:
 
