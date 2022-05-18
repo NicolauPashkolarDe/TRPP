@@ -15,7 +15,6 @@ Clone repo:
 
 ```
 git clone https://github.com/VasilievaKA/Motivashka_bot.git motivashka
-
 cd motivashka
 ```
 Install depends:
